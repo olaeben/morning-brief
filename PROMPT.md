@@ -37,11 +37,12 @@ Use today's date in Europe/London.
 
 ## 3. Build and publish
 ```bash
+command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg) || (apt-get update -qq && apt-get install -y -qq ffmpeg)
 pip install -q -r requirements.txt
 python3 scripts/build_episode.py scripts/today.json
 python3 scripts/update_feed.py
-echo "$(date -u +%FT%TZ) ok $(jq -r .title scripts/today.json)" >> logs/runs.log
-git add -A && git commit -m "Episode $(date +%F)" && git push
+echo "$(date -u +%FT%TZ) ok $(python3 -c 'import json;print(json.load(open("scripts/today.json"))["title"])')" >> logs/runs.log
+git add -A && git commit -m "Episode $(TZ=Europe/London date +%F)" && git push origin HEAD:main
 ```
 - If `build_episode.py` fails, read the error, fix the cause (bad JSON, an overlong line, a transient API error) and retry once.
 - If it still fails, append the error to `logs/runs.log`, commit and push the log, and stop. Do not publish a broken feed.

@@ -6,7 +6,7 @@
   "timezone": "Europe/London",
   "keep_days": 14,
   "hosts": {
-    "A": {"name": "Amara", "voice": "en-GB-Chirp3-HD-Aoede"},
-    "B": {"name": "James", "voice": "en-GB-Chirp3-HD-Charon"}
+    "A": {"name": "Amara", "voice": "en-GB-SoniaNeural"},
+    "B": {"name": "James", "voice": "en-GB-RyanNeural"}
   }
 }
