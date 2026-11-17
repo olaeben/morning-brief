@@ -1,0 +1,12 @@
+{
+  "title": "Morning Brief",
+  "description": "A 10-minute daily briefing on markets, geopolitics, cybersecurity and sport, ready by 8am UK time.",
+  "author": "Morning Brief",
+  "base_url": "https://olaeben.github.io/morning-brief",
+  "timezone": "Europe/London",
+  "keep_days": 14,
+  "hosts": {
+    "A": {"name": "Amara", "voice": "en-GB-Chirp3-HD-Aoede"},
+    "B": {"name": "James", "voice": "en-GB-Chirp3-HD-Charon"}
+  }
+}

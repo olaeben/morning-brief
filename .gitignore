@@ -1,0 +1,5 @@
+scripts/today.json
+*.wav
+__pycache__/
+.venv/
+*.key.json
