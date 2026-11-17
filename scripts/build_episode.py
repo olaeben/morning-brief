@@ -12,7 +12,7 @@ Input JSON (default: scripts/today.json):
 
 Output: episodes/<date>.mp3 and episodes/<date>.json (metadata used by update_feed.py).
 
-Auth: GOOGLE_APPLICATION_CREDENTIALS (path) or GOOGLE_APPLICATION_CREDENTIALS_JSON (raw JSON).
+Auth: GOOGLE_TTS_API_KEY (preferred), or GOOGLE_APPLICATION_CREDENTIALS (path) / GOOGLE_APPLICATION_CREDENTIALS_JSON (raw JSON).
 Voices: VOICE_A / VOICE_B env vars override config.json.
 """
 import argparse
@@ -91,10 +91,14 @@ def main():
     ap.add_argument("--list-voices", action="store_true", help="list en-GB voices and exit")
     args = ap.parse_args()
 
-    ensure_credentials()
     from google.cloud import texttospeech as tts
 
-    client = tts.TextToSpeechClient()
+    api_key = os.environ.get("GOOGLE_TTS_API_KEY")
+    if api_key:
+        client = tts.TextToSpeechClient(client_options={"api_key": api_key})
+    else:
+        ensure_credentials()
+        client = tts.TextToSpeechClient()
     cfg = load_config()
 
     if args.list_voices:

@@ -3,3 +3,4 @@ scripts/today.json
 __pycache__/
 .venv/
 *.key.json
+.env
