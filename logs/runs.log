@@ -1,0 +1,1 @@
+2026-11-18T00:21:58Z FAIL build_episode.py: TTS failed - speech.platform.bing.com:443 blocked by session network policy (proxy CONNECT 403); edge-tts cannot reach Microsoft TTS. Script for 2026-11-18 was written; no episode published. Allow speech.platform.bing.com in the environment's network settings.
