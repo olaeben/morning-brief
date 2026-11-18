@@ -26,6 +26,14 @@ from zoneinfo import ZoneInfo
 
 import edge_tts
 
+# edge-tts pins certifi's CA store; behind a TLS-intercepting proxy, trust the CA bundle
+# named by SSL_CERT_FILE / REQUESTS_CA_BUNDLE instead (no-op when neither is set).
+_ca = os.environ.get("SSL_CERT_FILE") or os.environ.get("REQUESTS_CA_BUNDLE")
+if _ca and os.path.isfile(_ca):
+    import ssl
+    import edge_tts.communicate as _etc
+    _etc._SSL_CTX = ssl.create_default_context(cafile=_ca)
+
 ROOT = Path(__file__).resolve().parent.parent
 SAMPLE_RATE = 24000
 PAUSE_SAME = 0.25  # seconds between lines by the same speaker

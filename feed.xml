@@ -11,7 +11,41 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Tue, 17 Nov 2026 23:24:07 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:49:09 +0000</lastBuildDate>
+    <item>
+      <title>2026-11-18 — Nvidia beats after Wall Street slide, UK inflation hits 3.6%, Iran-US strikes in the Gulf</title>
+      <description>Nvidia's first results since Jensen Huang's exit beat forecasts after the S&amp;P 500 closed at its lowest since July. UK inflation rose to 3.6% in October on record diesel prices. Iran and the US traded strikes around Bahrain and Qeshm ahead of Thursday's Trump-Xi-Putin meeting. Plus Visa's third-party incident, an exploited Puppet flaw, England's win in Madrid and Pochettino's first day at Manchester United.
 
+Sources:
+https://www.fool.com/coverage/stock-market-today/2026/11/17/stock-market-today-nov-17-stocks-slide-on-ai-chip-and-tech-pressures-salesforce-plummets-9/
+https://www.washingtonpost.com/business/2026/11/17/wall-street-stocks-dow-nasdaq/9f975f00-e2cf-11f1-a99e-b3e3805c6b8b_story.html
+https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-17-222310679.html
+https://www.nbcnews.com/business/business-news/live-blog/nvidia-stock-earnings-report-jensen-huang-rcna609804
+https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress
+https://www.cnbc.com/2026/11/17/stock-market-today-live-updates.html
+https://www.ons.gov.uk/economy/inflationandpriceindices/bulletins/consumerpriceinflation/october2026
+https://www.scmp.com/news/world/europe/article/3374912/uk-inflation-hits-12-month-high-36-soaring-fuel-tobacco-costs
+https://invezz.com/sg/news/2026/11/18/oil-price-today-brent-slips-as-api-shows-528-million-barrel-us-crude-build/
+https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain
+https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain
+https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/
+https://www.cnbc.com/2026/11/16/trump-xi-putin-ukraine-nuclear-tariffs-russia-iran-.html
+https://www.stripes.com/theaters/europe/2026-11-16/ukraine-drone-strike-crimea-bridge-23483059.html
+https://cybernews.com/security/visa-jpmorgan-data-breach/
+https://www.hookphish.com/blog/ransomware-group-inception-hits-advanced-micro-devices-inc-amd/
+https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog
+https://app.opencve.io/cve/CVE-2026-115731
+https://www.espn.com/soccer/report/_/gameId/401861175
+https://www.espn.com/soccer/report/_/gameId/401861186
+https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford
+https://www.liverpoolfc.com/news/fixture-updates-three-premier-league-changes-liverpool-november
+https://www.gmanetwork.com/news/sports/othersports/1009899/alexander-zverev-remains-perfect-vs-ben-shelton-now-2-0-at-atp-finals/story/
+https://www.nbcsports.com/tennis/news/fils-beats-jodar-for-1st-win-at-atp-finals-zverev-vs-shelton-next-in-rematch-of-us-open-final</description>
+      <enclosure url="https://olaeben.github.io/morning-brief/episodes/2026-11-18.mp3" length="4779243" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-brief-2026-11-18</guid>
+      <pubDate>Wed, 18 Nov 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>9:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
   </channel>
 </rss>
