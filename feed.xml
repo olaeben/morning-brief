@@ -11,7 +11,38 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Wed, 18 Nov 2026 10:49:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:06:40 +0000</lastBuildDate>
+    <item>
+      <title>2026-11-19 — Anthropic's record IPO debut, Trump-Xi-Putin talks in China, Iran widens Gulf attacks</title>
+      <description>Anthropic prices the biggest IPO on record at 83 dollars a share ahead of its Nasdaq debut, as hawkish Fed minutes push the dollar to a 19-month high and gold to a 14-month low. Trump, Xi and Putin prepare for three-way talks at APEC in Shenzhen while Iran strikes at Kuwait and Bahrain after a US strike on Qeshm Island. Plus Maersk confirms a breach, an exploited Puppet Enterprise flaw, and Pochettino's first day at Manchester United.
+
+Sources:
+https://www.cnbc.com/2026/11/18/stock-market-today-live-updates.html
+https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nasdaq-p-125812319.html
+https://uk.finance.yahoo.com/news/ftse-100-sinks-miners-plummet-174419125.html
+https://www.cnbc.com/2026/11/18/treasury-yields-bonds-fed.html
+https://www.kitco.com/news/article/2026-11-18/gold-plunges-below-3750-silver-tumbles-hawkish-fed-minutes-pressure-metals
+https://businessupturn.com/asia/east-asia/east-asia-markets-close-lower-as-tech-sells-off-across-the-region/
+https://www.news4jax.com/news/2026/11/19/anthropic-set-to-begin-trading-after-pricing-its-stock-at-83-per-share-in-biggest-ipo-on-record/
+https://www.cnn.com/2026/11/17/politics/us-iran-self-defense-strikes
+https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/
+https://www.aljazeera.com/news/liveblog/2026/11/19/apec-live-trump-xi-and-putin-to-meet-in-historic-three-way-china-summit
+https://www.cnbc.com/2026/11/18/trump-xi-putin-china-apec.html
+https://aa.com.tr/en/world/morning-briefing-nov-18-2026/4128568
+https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/
+https://www.bleepingcomputer.com/news/security/maersk-confirms-data-breach-as-whitearmor-ransomware-demands-5-million/
+https://cybersecuritynews.com/nvidia-data-breach-claim/
+https://www.cisa.gov/news-events/alerts/2026/11/17/cisa-adds-one-known-exploited-vulnerability-catalog
+https://therecord.media/
+https://www.skysports.com/football/news/13610882/mauricio-pochettino-appointed-as-manchester-united-head-coach-after-michael-carricks-sacking-at-old-trafford
+https://www.foxsports.com/articles/soccer/chelsea-beats-psg-on-late-goal-and-moves-atop-womens-champions-league-real-madrid-city-also-win
+https://www.atptour.com/en/news/nitto-atp-finals-2026-results</description>
+      <enclosure url="https://olaeben.github.io/morning-brief/episodes/2026-11-19.mp3" length="3923687" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-brief-2026-11-19</guid>
+      <pubDate>Thu, 19 Nov 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>8:10</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-18 — Nvidia beats after Wall Street slide, UK inflation hits 3.6%, Iran-US strikes in the Gulf</title>
       <description>Nvidia's first results since Jensen Huang's exit beat forecasts after the S&amp;P 500 closed at its lowest since July. UK inflation rose to 3.6% in October on record diesel prices. Iran and the US traded strikes around Bahrain and Qeshm ahead of Thursday's Trump-Xi-Putin meeting. Plus Visa's third-party incident, an exploited Puppet flaw, England's win in Madrid and Pochettino's first day at Manchester United.
