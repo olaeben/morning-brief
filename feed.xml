@@ -11,7 +11,40 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Thu, 19 Nov 2026 06:06:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 06:07:17 +0000</lastBuildDate>
+    <item>
+      <title>2026-11-20 — Anthropic soars 17% in debut as AI sell-off sinks markets, Trump-Xi-Putin summit yields no breakthrough</title>
+      <description>Anthropic closes its record-breaking first day of trading up 17 per cent, but the Dow sheds 1,100 points and Asia slumps as AI spending doubts deepen. Trump, Xi and Putin issue a 'peace declaration' in Shenzhen with no mention of Ukraine, while US-Iran clashes continue around Hormuz. Plus Nvidia probes a ransomware claim, CISA flags four exploited flaws, and Shelton books an ATP Finals semi against Alcaraz.
+
+Sources:
+https://www.cbsnews.com/news/anthropic-ipo-nasdaq-debut-claude-ai/
+https://www.thenationalnews.com/business/markets/2026/11/20/anthropic-share-price-today-ant-listing/
+https://www.washingtonpost.com/business/2026/11/19/wall-street-stocks-dow-nasdaq/6aaf39d0-e463-11f1-a99e-b3e3805c6b8b_story.html
+https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026
+https://www.kotakneo.com/news/global-markets/kospi-nikkei-fall-hang-seng-nears-bear-market-as-ai-selloff-spreads/
+https://www.asiaone.com/money/asian-shares-head-worst-week-2020-ai-rout-deepens
+https://www.lse.co.uk/news/london-market-close-ftse-100-down-but-anthropic-makes-strong-debut-cvq2se0vjggko2j.html
+https://irishtimes.com/business/2026/11/19/ftse-hits-six-week-low-as-risk-aversion-weighs-on-global-shares
+https://www.ons.gov.uk/releases/retailsalesgreatbritainoctober2026
+https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/
+https://www.scmp.com/news/china/diplomacy/article/3375130/xi-trump-and-putin-peace-declaration-suggests-summit-more-photo-op
+https://www.cbsnews.com/news/putin-russia-ukraine-bridge-strike/
+https://www.cbsnews.com/live-updates/iran-war-us-nuclear-oil-strait-of-hormuz/
+https://www.pbs.org/newshour/world/u-s-strikes-iranian-targets-in-strait-of-hormuz-u-s-official-tells-ap
+https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/
+https://www.securityweek.com/nvidia-responds-to-gentlemen-ransomware-claim/
+https://www.cisa.gov/news-events/alerts/2026/11/18/cisa-adds-four-known-exploited-vulnerabilities-catalog
+https://securityaffairs.com/203504/hacking/u-s-cisa-adds-apache-axis-vanderbilt-redcapberriai-litellm-and-synology-dsm-flaws-to-its-known-exploited-vulnerabilities-catalog.html
+https://www.espn.com/soccer/match/_/gameId/401916976/ol-lyonnes-arsenal
+https://www.espn.com/tennis/story/_/id/50534384/shelton-beats-jodar-joins-zverev-alcaraz-atp-finals-semis
+https://www.espn.com/nfl/recap?gameId=401873066
+https://en.wikipedia.org/wiki/2026%E2%80%9327_Premier_League</description>
+      <enclosure url="https://olaeben.github.io/morning-brief/episodes/2026-11-20.mp3" length="4202105" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-brief-2026-11-20</guid>
+      <pubDate>Fri, 20 Nov 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>8:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-19 — Anthropic's record IPO debut, Trump-Xi-Putin talks in China, Iran widens Gulf attacks</title>
       <description>Anthropic prices the biggest IPO on record at 83 dollars a share ahead of its Nasdaq debut, as hawkish Fed minutes push the dollar to a 19-month high and gold to a 14-month low. Trump, Xi and Putin prepare for three-way talks at APEC in Shenzhen while Iran strikes at Kuwait and Bahrain after a US strike on Qeshm Island. Plus Maersk confirms a breach, an exploited Puppet Enterprise flaw, and Pochettino's first day at Manchester United.

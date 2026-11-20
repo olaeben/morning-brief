@@ -2,3 +2,4 @@
 2026-11-18T06:06:04Z FAIL build_episode.py: TTS still blocked - speech.platform.bing.com:443 refused by session network policy (proxy CONNECT 403; retried via edge-tts with and without proxy). No episode for 2026-11-18 published. Fix: allow speech.platform.bing.com in the environment's network settings.
 2026-11-18T10:49:14Z ok Nvidia beats after Wall Street slide, UK inflation hits 3.6%, Iran-US strikes in the Gulf (fixed: edge-tts now trusts SSL_CERT_FILE CA bundle; deps installed via python3 -m pip)
 2026-11-19T06:06:40Z ok Anthropic's record IPO debut, Trump-Xi-Putin talks in China, Iran widens Gulf attacks
+2026-11-20T06:07:22Z ok Anthropic soars 17% in debut as AI sell-off sinks markets, Trump-Xi-Putin summit yields no breakthrough (note: edge_tts needed python3 -m pip install)
