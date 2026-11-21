@@ -11,7 +11,39 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Fri, 20 Nov 2026 06:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 06:06:45 +0000</lastBuildDate>
+    <item>
+      <title>2026-11-21 — Nvidia plunges 14% as S&amp;P 500 and Dow enter correction, Russian missiles land in Poland, UK and EU seal reset deal</title>
+      <description>Wall Street's AI sell-off deepened on Friday: Nvidia fell 14 per cent, the S&amp;P 500 and Dow closed in correction and the Nasdaq wiped out its gains for the year. Russian missiles and a drone came down in Poland during a huge attack on Ukraine, and the UK and EU agreed a package of post-Brexit deals in Brussels. Plus JPMorgan Chase's vendor breach, the Optimizely fallout, and a big sporting weekend from St James' Park to Las Vegas.
+
+Sources:
+https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html
+https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/
+https://finance.yahoo.com/markets/stocks/articles/nvidia-amazon-tech-giants-face-213447664.html
+https://www.lse.co.uk/news/london-market-close-ftse-100-tumbles-as-global-tech-rout-takes-hold-0z8jxie9zj6ec46.html
+https://uk.finance.yahoo.com/news/ftse-100-ends-week-lower-164638229.html
+https://www.kitco.com/news/article/2026-11-20/gold-falls-toward-3500-silver-slides-stock-markets-enter-correction
+https://pymnts.com/legal/2026/sec-investigating-whether-nvidia-misled-investors
+https://www.bloomberg.com/news/articles/2026-11-20/poland-says-two-russian-missiles-drone-crashed-on-its-soil
+https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace
+https://kyivindependent.com/poland-reports-airspace-violation-during-russian-attack-on-ukraine-investigates-debris-crash/
+https://www.aljazeera.com/news/2026/11/20/uk-eu-deal-what-we-know-so-far
+https://www.irishtimes.com/world/europe/2026/11/20/whats-in-the-eu-uk-reset-deal/
+https://www.aljazeera.com/news/2026/11/15/estonia-to-close-border-crossings-with-russia-after-attack-on-drone-maker
+https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/
+https://www.bleepingcomputer.com/news/security/nvidia-investigating-gentlemen-ransomware-breach-claims/
+https://bleepingcomputer.com/news/security/optimizely-supply-chain-attack-infects-major-brands-sites-with-malware
+https://www.sportsmole.co.uk/football/arsenal/premier-league-predictions/feature/wins-for-arsenal-man-city-saturdays-premier-league-predictions_609468.html
+https://www.skysports.com/premier-league-scores-fixtures
+https://www.atptour.com/en/news/medvedev-tiafoe-nitto-atp-finals-2026-friday
+https://www.formula1.com/en/latest/article/antonelli-quickest-in-las-vegas-gp-qualifying-as-verstappen-inherits-pole-position.6R7udh8iYMHunSOGI6zStK
+https://www.rugbypass.com/autumn-nations-series/fixtures-results/</description>
+      <enclosure url="https://olaeben.github.io/morning-brief/episodes/2026-11-21.mp3" length="4438084" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-brief-2026-11-21</guid>
+      <pubDate>Sat, 21 Nov 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>9:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-20 — Anthropic soars 17% in debut as AI sell-off sinks markets, Trump-Xi-Putin summit yields no breakthrough</title>
       <description>Anthropic closes its record-breaking first day of trading up 17 per cent, but the Dow sheds 1,100 points and Asia slumps as AI spending doubts deepen. Trump, Xi and Putin issue a 'peace declaration' in Shenzhen with no mention of Ukraine, while US-Iran clashes continue around Hormuz. Plus Nvidia probes a ransomware claim, CISA flags four exploited flaws, and Shelton books an ATP Finals semi against Alcaraz.
