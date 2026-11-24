@@ -11,7 +11,37 @@
     <itunes:category text="News"><itunes:category text="Daily News"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
     <itunes:block>Yes</itunes:block>
-    <lastBuildDate>Mon, 23 Nov 2026 06:07:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:05:47 +0000</lastBuildDate>
+    <item>
+      <title>2026-11-24 — Huang's return sparks Nvidia's best day since 2003 and a global rally, Nato meets over Russian missiles in Poland, Hormuz attacks hit record pace</title>
+      <description>Nvidia jumps 31 per cent after its board reinstates Jensen Huang, driving Wall Street's best day since April 2025 and a surge across Asian chip stocks. Nato's emergency session on Russian cruise missiles in Poland, record attacks on shipping around Hormuz, and the collapse of the UN climate talks in Antalya. In cyber, new actively exploited flaws join CISA's catalogue and Cleverbridge confirms card data theft. In sport, Brentford thrash Everton and Arsenal host Dortmund in the Champions League.
+
+Sources:
+https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
+https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html
+https://www.bbntimes.com/global-economy/s-p-500-soars-4-73-to-7-237-17-in-best-day-since-april-2025-on-huang-s-nvidia-comeback
+https://abc.net.au/news/2026-11-24/asx-markets-business-news-live-updates-nov-24-2026/107419524
+https://www.ad-hoc-news.de/boerse/news/marktberichte/ftse-100-rebounds-1-30-prozent-as-nvidia-revives-risk-appetite/70547878
+https://www.riotimesonline.com/gold-silver-precious-metals-monday-november-23-2026/
+https://invezz.com/news/2026/11/23/oil-price-today-brent-below-90-surplus-fears/
+https://heygotrade.com/en/news/weekly-economic-outlook-2026-11-23
+https://www.pbs.org/newshour/world/nato-calls-russian-missiles-landing-in-poland-a-grave-violation-of-airspace
+https://nbcnews.com/world/russia/poland-nato-early-warning-aircraft-russia-missiles-cross-border-rcna610957
+https://www.cnn.com/2026/11/22/middleeast/hormuz-attacks-highest-levels-iran-war-intl
+https://www.democracynow.org/2026/11/23/headlines/three_more_ships_are_struck_amid_record_pace_of_attacks_in_strait_of_hormuz
+https://havanatimes.org/news/international-news-briefs-for-monday-november-23-2026/
+https://securityonline.info/cisa-kev-monai-label-n-able-mailassure/
+https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html
+https://securityaffairs.com/203851/data-breach/cleverbridge-confirms-attackers-copied-payment-card-data-from-its-platform.html
+https://www.skysports.com/football/live-blog/13610930/brentford-vs-everton-live-premier-league-match-updates-free-highlights-news-and-score
+https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures-a/
+https://sports.yahoo.com/articles/monday-night-football-live-updates-210034812.html</description>
+      <enclosure url="https://olaeben.github.io/morning-brief/episodes/2026-11-24.mp3" length="4257251" type="audio/mpeg"/>
+      <guid isPermaLink="false">morning-brief-2026-11-24</guid>
+      <pubDate>Tue, 24 Nov 2026 07:00:00 +0000</pubDate>
+      <itunes:duration>8:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>2026-11-23 — Kospi tumbles as AI sell-off hits Asia, Nato meets over Russian missiles in Poland, Pochettino's nightmare Anfield debut</title>
       <description>South Korea's market slumped more than four per cent as the AI sell-off and the SEC's Nvidia accounting probe rippled through Asia, even as US futures bounced. Nato meets in Brussels after Poland confirmed three Russian cruise missiles crossed its airspace, while Iran and Bahrain trade claims over strikes. Plus an actively exploited Cisco BroadWorks flaw, Liverpool's four-nil rout of Manchester United and Lauren Price's undisputed title.
